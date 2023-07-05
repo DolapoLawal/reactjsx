@@ -1,0 +1,36 @@
+.card {
+    width: 400px;
+    margin: 20px;
+    
+}
+
+.card-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.card-text {
+    margin-bottom: 20px;
+    color: orange;
+}
+
+.image-container {
+    display: inline-flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.image {
+    width: 10px;
+    height: auto;
+}
+
+.greeting-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: yellowgreen;
+    text-align: center;
+    }
